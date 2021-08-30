@@ -19,3 +19,9 @@ mvn package
 ![](imgs/main.png)
 
 ![](imgs/hello.png)
+
+# 더 나아가기
+1. 어떻게 웹페이지가 보이는 걸까? 그 과정은?
+2. jar파일을 실행했는데 누가 어떻게 실행하는 것일까?
+3. 처음에 웹페이지에 접속이 안되었는데 그이유는?
+4. git clone과 download zip 차이는?
